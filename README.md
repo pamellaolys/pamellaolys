@@ -4,7 +4,7 @@ E seja Bem vindo(a/e) ao meu Github
 
 ##
 <h5>Sobre mim</h5>
-📖 Estudando para me tornar <b> Desenvolvedora FullStack Java Jr</b> pela <a href="https://brazil.generation.org/">Generation Brasil</a>
+📖 <b> Desenvolvedora FullStack Java Jr</b> recém formada pela <a href="https://brazil.generation.org/">Generation Brasil</a>
 <br>
 🧠 Atualmente aprendendo: HTML/CSS/Angular
 <br>
