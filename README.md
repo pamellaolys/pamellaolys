@@ -6,7 +6,7 @@ E seja Bem vindo(a/e) ao meu Github
 <h5>Sobre mim</h5>
 📖 <b> Desenvolvedora FullStack Java Jr</b> recém formada pela <a href="https://brazil.generation.org/">Generation Brasil</a>
 <br>
-🧠 Atualmente aprendendo: HTML/CSS/Angular
+🧠 Atualmente aprendendo: JavaScript /HTML/CSS
 <br>
 👩🏾‍🦰 Pronomes: Ela/Dela
 <br>
