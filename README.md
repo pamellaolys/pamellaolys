@@ -1,16 +1,18 @@
 ## Olá, tudo bem?
-Eu sou a <b>Pamella Santos</b><br>
+Eu sou a <a href="https://www.linkedin.com/in/pamella-oliveira-santos/"><b>Pamella Santos</b></a> <br>
 E seja Bem vindo(a/e) ao meu Github 
 
 ##
 <h5>Sobre mim</h5>
-📖 <b> Desenvolvedora FullStack Java Jr</b> recém formada pela <a href="https://brazil.generation.org/">Generation Brasil</a>
+👩‍💻<b> Desenvolvedora FullStack Java Jr</b> formada pela <a href="https://brazil.generation.org/">Generation Brasil</a>
 <br>
-🧠 Atualmente aprendendo: JavaScript /HTML/CSS
+📖 Produtora de conteudo do <a href="https://www.instagram.com/dev.eria_saber/">@dev.eria_saber</a>
+<br>
+🧠 Atualmente estudando: JAVA / JavaScript / HTML / CSS
 <br>
 👩🏾‍🦰 Pronomes: Ela/Dela
 <br>
-🔍 Curiosa e comunicativa
+🔍 Curiosa e Comunicativa
 <br>
 💖 Cada dia mais apaixonada por tecnologia
 <br>
